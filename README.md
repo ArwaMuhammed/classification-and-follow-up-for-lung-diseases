@@ -11,10 +11,10 @@ Pulmonary capillary perfusion and gas exchange are the fundamental physical proc
 
 ## Directories
 
-- `raw-data`: Raw images and sources for pulmonary RVE simulations.
-- `results-data`: Numerical simulation results.
-- `src`: Python and MATLAB source files.
-- `tests`: Main files that implement examples and tests.
+- `mathematical model/raw-data`: Raw images and sources for pulmonary RVE simulations.
+- `mathematical model/results-data`: Numerical simulation results.
+- `mathematical model/src`: Python and MATLAB source files.
+- `mathematical model/tests`: Main files that implement examples and tests.
 
 ## Results
 We now present the main results of this article. Single-capillary perfusion and gas exchange in a simple slab-like domain are shown below. 
