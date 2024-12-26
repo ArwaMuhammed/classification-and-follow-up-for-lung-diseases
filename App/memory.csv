@@ -1,0 +1,12 @@
+Name,ID,Diagnosis,Progressions
+Ali Ahmed,2440,Emphysema,0.2345;0.6326;0.5674;0.7565;0.5263586
+Jane Smith,2441,Emphysema,0.0201;0.0314;0.0783;0.105;0.1262
+Mohamed Ahmed,2442,,
+Sara Lee,2443,Edema,0.1255
+John Doe,2444,Effusion,0.5303;0.5213;0.4982;0.5151;0.5276
+Emily Rose,2445,Emphysema,0.316;0.4122;0.3497;0.3978;0.4269
+Michael Brown,2446,Fibrosis,0.3891;0.4301;0.4031;0.4705;0.51
+Tom Harris,2447,Hernia,0.6121;0.8016;0.543;0.4789;0.5592
+Sara Lee,2448,Infiltration,0.7635;0.7934;0.7465;0.7882;0.799
+Paul Green,2449,Mass,0.5402;0.5504;0.6021;0.6215;0.6352
+Lucy White,2450,Nodule,0.4975;0.4826;0.4456;0.4307;0.4111
